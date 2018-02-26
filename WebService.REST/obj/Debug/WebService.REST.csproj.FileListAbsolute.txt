@@ -1,0 +1,14 @@
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\WebService.REST.dll.config
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\WebService.REST.dll
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\WebService.REST.pdb
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\Data.dll
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\PunClient.exe
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\Data.pdb
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\PunClient.pdb
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\PunClient.exe.config
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\obj\Debug\WebService.REST.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\obj\Debug\WebService.REST.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\obj\Debug\WebService.REST.dll
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\obj\Debug\WebService.REST.pdb
