@@ -12,3 +12,5 @@ C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\obj\Debug\WebServi
 C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\obj\Debug\WebService.REST.csproj.CoreCompileInputs.cache
 C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\obj\Debug\WebService.REST.dll
 C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\obj\Debug\WebService.REST.pdb
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\Newtonsoft.Json.dll
+C:\Users\Awesome\source\repos\WebService.REST\WebService.REST\bin\Newtonsoft.Json.xml

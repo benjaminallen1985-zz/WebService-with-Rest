@@ -65,9 +65,9 @@ namespace Data
             {
                 this.Puns.Remove(found);
                 this.Puns.Add(pun);
-                Save();
-                return pun;
+                Save();                
             }
+            return pun;
         }
 
         public Pun AddPun(Pun pun)

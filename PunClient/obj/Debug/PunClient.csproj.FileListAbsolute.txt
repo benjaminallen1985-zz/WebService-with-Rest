@@ -1,0 +1,9 @@
+C:\Users\Awesome\source\repos\WebService.REST\PunClient\obj\Debug\PunClient.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\WebService.REST\PunClient\obj\Debug\PunClient.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\WebService.REST\PunClient\bin\Debug\PunClient.exe.config
+C:\Users\Awesome\source\repos\WebService.REST\PunClient\bin\Debug\PunClient.exe
+C:\Users\Awesome\source\repos\WebService.REST\PunClient\bin\Debug\PunClient.pdb
+C:\Users\Awesome\source\repos\WebService.REST\PunClient\bin\Debug\Data.dll
+C:\Users\Awesome\source\repos\WebService.REST\PunClient\bin\Debug\Data.pdb
+C:\Users\Awesome\source\repos\WebService.REST\PunClient\obj\Debug\PunClient.exe
+C:\Users\Awesome\source\repos\WebService.REST\PunClient\obj\Debug\PunClient.pdb

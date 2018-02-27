@@ -16,6 +16,11 @@ namespace WebService.REST
     {
         private PunDataService _service;
 
+        public PunService()
+        {
+            _service = new PunDataService();
+        }
+
         [WebGet(UriTemplate="/Puns")]
         public Pun[] GetPuns()
         {
@@ -37,7 +42,7 @@ namespace WebService.REST
         }
 
         [WebInvoke(Method = "PUT", UriTemplate = "/Pun/{punID}")]
-        public Pun UpdatePun(Pun pun)
+        public Pun UpdatePun(string punID, Pun pun)
         {
             return _service.UpdatePun(pun);
         }
